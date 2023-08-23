@@ -11,11 +11,11 @@
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
         <view contentMode="scaleToFill" id="iN0-l3-epB">
-            <rect key="frame" x="0.0" y="0.0" width="2539" height="1014"/>
+            <rect key="frame" x="0.0" y="0.0" width="3964" height="1697"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TxV-ll-X6W">
-                    <rect key="frame" x="762.66666666666652" y="0.0" width="1014" height="1014"/>
+                    <rect key="frame" x="1133.6666666666667" y="0.0" width="1697.0000000000002" height="1697"/>
                     <color key="backgroundColor" systemColor="systemCyanColor"/>
                     <constraints>
                         <constraint firstAttribute="width" secondItem="TxV-ll-X6W" secondAttribute="height" id="efN-du-xC1"/>
@@ -31,7 +31,7 @@
                 <constraint firstItem="TxV-ll-X6W" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="zNc-8Y-WcB"/>
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
-            <point key="canvasLocation" x="-2475.5725190839694" y="-1324.6478873239437"/>
+            <point key="canvasLocation" x="-841.22137404580144" y="-1447.5352112676057"/>
         </view>
     </objects>
     <resources>

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D54E1D612A9606620068C325 /* Solution.xib in Resources */ = {isa = PBXBuildFile; fileRef = D54E1D602A9606620068C325 /* Solution.xib */; };
 		D55BAC0E2A96050700D2525D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D55BAC0D2A96050700D2525D /* AppDelegate.swift */; };
 		D55BAC102A96050700D2525D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D55BAC0F2A96050700D2525D /* SceneDelegate.swift */; };
 		D55BAC122A96050700D2525D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D55BAC112A96050700D2525D /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D54E1D602A9606620068C325 /* Solution.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Solution.xib; sourceTree = "<group>"; };
 		D55BAC0A2A96050700D2525D /* RectangleProblem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RectangleProblem.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D55BAC0D2A96050700D2525D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D55BAC0F2A96050700D2525D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				D55BAC0D2A96050700D2525D /* AppDelegate.swift */,
 				D55BAC0F2A96050700D2525D /* SceneDelegate.swift */,
 				D55BAC112A96050700D2525D /* ViewController.swift */,
+				D54E1D602A9606620068C325 /* Solution.xib */,
 				D55BAC132A96050700D2525D /* Main.storyboard */,
 				D55BAC162A96050800D2525D /* Assets.xcassets */,
 				D55BAC182A96050800D2525D /* LaunchScreen.storyboard */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D54E1D612A9606620068C325 /* Solution.xib in Resources */,
 				D55BAC1A2A96050800D2525D /* LaunchScreen.storyboard in Resources */,
 				D55BAC172A96050800D2525D /* Assets.xcassets in Resources */,
 				D55BAC152A96050700D2525D /* Main.storyboard in Resources */,
